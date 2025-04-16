@@ -1,0 +1,54 @@
+/*  */
+
+.inputWith_49_32 {
+  display: flex;
+  width: 300px;
+  height: 32px;
+  align-items: center;
+  border: 1px solid #000;
+  background: #fff;
+  opacity: 1;
+}
+/* Children Css */
+
+.input_49_29 {
+  display: flex;
+  padding-left: 8px;
+  align-items: center;
+  flex: 1 0 0;
+  align-self: stretch;
+  opacity: 1;
+
+  color: #000;
+  font-family: var(--font-inter);
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+._050_49_31 {
+  opacity: 1;
+  font-family: var(--font-inter);
+  font-style: normal;
+  font-size: 12px;
+  font-weight: 400;
+  text-decoration: none;
+  line-height: normal;
+  text-transform: none;
+  letter-spacing: 0px;
+  color: rgba(0, 0, 0, 1);
+
+  ._2650 {
+    font-weight: 400;
+  }
+}
+
+.inlineAddOn_49_30 {
+  display: flex;
+  height: 15px;
+  padding: 0px 8px;
+  justify-content: center;
+  align-items: center;
+  opacity: 1;
+}
