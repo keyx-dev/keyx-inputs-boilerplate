@@ -9,6 +9,8 @@ export default function LucideDollarSign(props) {
   return (
     <Element {...rest} className={clsx("lucideDollarSign_24_23", className)}>
       <svg
+        width="10"
+        height="16"
         viewBox="0 0 10 16"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"

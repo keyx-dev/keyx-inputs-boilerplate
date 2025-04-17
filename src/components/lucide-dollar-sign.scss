@@ -1,9 +1,12 @@
 /*  */
 
 .lucideDollarSign_24_23 {
-  position: relative;
+  display: flex;
   width: 16px;
   height: 16px;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
   opacity: 1;
 }
 /* Children Css */
