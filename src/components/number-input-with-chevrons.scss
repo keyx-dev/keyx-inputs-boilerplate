@@ -49,8 +49,9 @@
 
 .lucideChevronUp_1_34 {
   position: relative;
-  width: 16px;
-  height: 16px;
+  width: 12px;
+  height: 12px;
+  aspect-ratio: 1/1;
   opacity: 1;
 }
 
@@ -81,8 +82,9 @@
 
 .lucideChevronDown_1_30 {
   position: relative;
-  width: 16px;
-  height: 16px;
+  width: 12px;
+  height: 12px;
+  aspect-ratio: 1/1;
   opacity: 1;
 }
 
@@ -99,11 +101,11 @@
 .chevrons_1_26 {
   display: flex;
   width: 29px;
-  height: 32px;
   flex-direction: column;
   justify-content: center;
-  align-items: flex-end;
+  align-items: center;
   flex-shrink: 0;
+  align-self: stretch;
   border-left: 1px solid #000;
   background: #fff;
   opacity: 1;

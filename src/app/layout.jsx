@@ -1,5 +1,5 @@
 import * as fonts from "@/app/fonts.js";
-import "modern-normalize/modern-normalize.css";
+import "@/app/reset.css";
 import "@/app/global.css";
 
 const fontVariableClasses = Object.values(fonts)

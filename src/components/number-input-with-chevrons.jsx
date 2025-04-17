@@ -34,13 +34,13 @@ export default function NumberInputWithChevrons(props) {
         <button className="up_1_28" onClick={increase}>
           <div className="lucideChevronUp_1_34">
             <svg
-              viewBox="0 0 11 6"
+              viewBox="0 0 9 6"
               fill="none"
               xmlns="http://www.w3.org/2000/svg"
               className="vector_1_38"
             >
               <path
-                d="M9.5 5L5.5 1L1.5 5"
+                d="M7.5 4.5L4.5 1.5L1.5 4.5"
                 stroke="black"
                 strokeWidth="1.33333"
                 strokeLinecap="round"
@@ -53,13 +53,13 @@ export default function NumberInputWithChevrons(props) {
         <button className="down_1_29" onClick={decrease}>
           <div className="lucideChevronDown_1_30">
             <svg
-              viewBox="0 0 11 6"
+              viewBox="0 0 9 6"
               fill="none"
               xmlns="http://www.w3.org/2000/svg"
               className="vector_1_33"
             >
               <path
-                d="M1.5 1L5.5 5L9.5 1"
+                d="M1.5 1.5L4.5 4.5L7.5 1.5"
                 stroke="black"
                 strokeWidth="1.33333"
                 strokeLinecap="round"
